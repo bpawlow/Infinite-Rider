@@ -1,0 +1,22 @@
+Credits 
+
+Orb/bullet sprite: taken from Dodgeball HW assignment, Ian Horswill
+
+Cha Ching Sound Effect for score checkpoints: https://soundbible.com/1997-Cha-Ching-Register.html#google_vignette
+
+Restart Button: https://www.kindpng.com/imgv/obbowx_reset-button-restart-button-pixel-art-8-bit/
+
+Planet Sprite: https://www.pngkit.com/bigpic/u2e6r5a9t4r5q8e6/
+
+Star Sprite: http://clipart-library.com/clip-art/star-transparent-image-9.htm
+
+Obstacle Sprite: https://freepngimg.com/png/33929-asteroid-transparent
+
+Background Space: https://digitalmoons.itch.io/free-space-background
+
+Game Over Sprite: https://kandipatterns.com/patterns/misc/game-over-6303
+
+Background Music & Player Spaceship Vehicle: Taken from "Warped Vehicles" Package in the Unity Asset store 
+
+
+** All objects, images, and sounds were found by using keyword "free sprites" in search ** 
